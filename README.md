@@ -1,8 +1,12 @@
 # Train-Reservation-System
+
 Overview:
+
 •	Used AVL Trees to implement.
 •	A Train Database of 10 trains is maintained in a Tree to maintain the SEAT MATRIX and allocate proper seat to User.
+
 •	The Trains are given id from 25671 to 25680(a try to make it real)
+
 •	Seat Allocation
     o	When a user wants to allocate a seat in a certain class a SEAT is allocated to him in the proper coach and Train No and the seat number is CLASSNAME-SEATNUMBER (eg. 2AC-4).
 
